@@ -1,6 +1,6 @@
 {
   "name": "openconcho",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Fast, privacy-first desktop & web UI for self-hosted Honcho \u2014 browse memories, peers, sessions, conclusions, and chat with memory context.",
   "main": "src/index.ts",
   "scripts": {
